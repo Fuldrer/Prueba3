@@ -1,0 +1,12 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "-Wall -Wno-fatal --cc Prueba3.v --exe Test_Prueba3.cpp"
+S   5279832  1190047  1558124736   453281690  1519110675           0 "/usr/bin/verilator_bin"
+S       284   134795  1559263106   453752070  1559263106   453752070 "Prueba3.v"
+T      3801   140482  1559263110   977531771  1559263110   977531771 "obj_dir/VPrueba3.cpp"
+T      2383   140440  1559263110   977531771  1559263110   977531771 "obj_dir/VPrueba3.h"
+T      1786   140498  1559263110   977531771  1559263110   977531771 "obj_dir/VPrueba3.mk"
+T       535   140383  1559263110   977531771  1559263110   977531771 "obj_dir/VPrueba3__Syms.cpp"
+T       718   140344  1559263110   977531771  1559263110   977531771 "obj_dir/VPrueba3__Syms.h"
+T       226   140503  1559263110   977531771  1559263110   977531771 "obj_dir/VPrueba3__ver.d"
+T         0        0  1559263110   977531771  1559263110   977531771 "obj_dir/VPrueba3__verFiles.dat"
+T      1162   140490  1559263110   977531771  1559263110   977531771 "obj_dir/VPrueba3_classes.mk"
